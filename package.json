@@ -1,0 +1,23 @@
+{
+  "name": "nodehangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-scott/nodeHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-scott/nodeHangman/issues"
+  },
+  "homepage": "https://github.com/e-scott/nodeHangman#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "is-letter": "^1.1.1"
+  }
+}
