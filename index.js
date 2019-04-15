@@ -99,7 +99,7 @@ var hangman = {
 
             console.log("Letters guessed: " + that.guessedLetters);
           } else{
-            console.log('Yes! that\'s right keep going!');
+            console.log('Yes! That\'s right keep going!');
               //checks to see if user won, then start new game
               if(that.currentWord.didWeFindTheWord() === true){
                 console.log(that.currentWord.wordRender());
